@@ -1,0 +1,4 @@
+INFO:root:This is a test message
+ERROR:root:An error occurred during the import, check the latest log for more information
+Details:
+expected str, bytes or os.PathLike object, not TextIOWrapper

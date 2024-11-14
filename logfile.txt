@@ -1,0 +1,2 @@
+[INFO] Ingesting chunk from line 1 to line 100
+[Error] Data issue in CSV at line number #1# failed to upload and caused import to stop.

@@ -1,0 +1,32 @@
+# Identities headers
+ID_CUSTOMERID = 'customer_id'
+ID_EMAIL = 'Email Address'
+ID_OTHER2 = 'Other 2'
+
+# Attributes headers
+AT_FIRSTNAME = '$firstname'
+AT_LASTNAME = '$lastname'
+# AT_MOBILE = '$mobile'
+EV_MOBILE = '$mobile'
+# AT_POSTCODE = '$zip'
+EV_POSTCODE = '$zip'
+# AT_GUIDEWIREIDS = 'Guidewire Account IDs'
+EV_GUIDEWIREACCOUNTIDS = 'Guidewire Account IDs'
+# AT_ANCILLARIES = 'Types of Ancillaries Held'
+EV_ANCILLARYHOLDING = 'Types of Ancillaries Held'
+AT_BIRTHDATE = 'dob'
+
+# Event attributes headers
+EV_POLICYSTATUS = 'Policy Status'
+EV_AUTORENEWAL = 'Auto Renewal'
+EV_INDIVIDUALROLE = 'Individual Role'
+EV_PRODUCT = 'Product'
+EV_BRAND = 'Brand'
+EV_ISMULTICARPOL = 'Is Multicar Policy'
+EV_ONLINEPOL = 'Online Policy'
+EV_VEHICLEREG = 'Vehicle Registration'
+EV_LATESTRENEWDATE = 'Latest Renewal Date'
+EV_LATESTENDDATE = 'Latest End Date'
+EV_LATESTSTARTDATE = 'Latest Start Date'
+EV_POLICYNUMBER = 'Policy Number'
+EV_PAYMENTMETHOD = 'Payment Method'
